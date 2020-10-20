@@ -22,10 +22,13 @@
 <br/>
 
 <!-- - 🔭 I’m currently working on MERN --> 
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Flutter, MERN, Azure
 - 💬 Ask me about anything
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/dhananjay-narayan-aa222615b/">
   <img alt="Dhananjay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://twitter.com/DjayNarayan">
+  <img alt="Dhananjay's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <!--  - 😄 Pronouns: He/Him -->
 <!-- - ⚡ Fun fact: ... -->
