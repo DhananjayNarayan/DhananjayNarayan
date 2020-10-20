@@ -17,14 +17,16 @@
   <img align="left" alt="Dhananjay's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
-
+<!-- a normal html comment -->
 <br/>
 <br/>
 
-- 🔭 I’m currently working on MERN  
+<!-- - 🔭 I’m currently working on MERN --> 
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me about anything
-- 📫 How to reach me: Twitter - @DjayNarayan(https://twitter.com/djaynarayan)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/dhananjay-narayan-aa222615b/">
+  <img align="left" alt="Dhananjay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<!--  - 😄 Pronouns: He/Him -->
+<!-- - ⚡ Fun fact: ... -->
 
