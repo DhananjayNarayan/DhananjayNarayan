@@ -50,6 +50,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhananjayNarayan&theme=great-gatsby" />
 </a>
 <a href="https://github.com/DhananjayNarayan">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=DhananjayNarayan&show_icons=true&theme=great-gatsby&line_height=27" alt="Dhananjay's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=DhananjayNarayan&show_icons=true&theme=great-gatsby&line_height=27&count_private=true" alt="Dhananjay's github stats"/>
 </a>
 
