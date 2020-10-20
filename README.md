@@ -47,7 +47,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 <a href="https://github.com/DhananjayNarayan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhananjayNarayan&theme=great-gatsby" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhananjayNarayan&theme=great-gatsby&layout=compact&langs_count=8" />
 </a>
 <a href="https://github.com/DhananjayNarayan">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DhananjayNarayan&show_icons=true&theme=great-gatsby&line_height=27&count_private=true" alt="Dhananjay's github stats"/>
