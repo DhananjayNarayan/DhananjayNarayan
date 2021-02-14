@@ -25,7 +25,7 @@
 - 🌱 I’m currently working on Algorithms, Flutter, MERN, Azure, Java
 - 💬 Ask me about anything
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/dhananjay-narayan-aa222615b/">
-  <img alt="Dhananjay's Linkdein" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img alt="Dhananjay's Linkdein" width="80px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>   <a href="https://twitter.com/DjayNarayan">
   <img alt="Dhananjay's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
